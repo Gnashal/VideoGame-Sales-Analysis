@@ -7,9 +7,9 @@ The video game industry is a rapidly growing sector, driven by technological adv
 With the vast amount of data available, businesses need to identify which games perform best in terms of sales and which demographics are driving sales. This analysis helps answer critical questions about market dynamics, allowing companies to make informed decisions regarding game development, marketing strategies, and resource allocation.
 
 ## Data Sources Used
-- **(VGChartz)[https://www.kaggle.com/datasets/holmjason2/videogamedata]**: This is the primary dataset used, providing comprehensive sales data for video games across various platforms and regions.
-- **(VGSales)[https://www.kaggle.com/datasets/asaniczka/video-game-sales-2024]**: Additional sales data, offering insights into historical trends and game performance.
-- **(Game Sales Data)[https://www.kaggle.com/datasets/gregorut/videogamesales]**: A third dataset to supplement the analysis with more recent game titles and user scores.
+- **[VGChartz](https://www.kaggle.com/datasets/holmjason2/videogamedata)**: This is the primary dataset used, providing comprehensive sales data for video games across various platforms and regions.
+- **[VGSales](https://www.kaggle.com/datasets/asaniczka/video-game-sales-2024)**: Additional sales data, offering insights into historical trends and game performance.
+- **[Game Sales Data](https://www.kaggle.com/datasets/gregorut/videogamesales)**: A third dataset to supplement the analysis with more recent game titles and user scores.
 
 ## Business Questions
 1. **Which platforms have the highest sales growth over the last five years, and what factors contribute to this growth?**  
