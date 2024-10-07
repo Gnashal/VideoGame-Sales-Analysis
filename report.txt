@@ -1,0 +1,26 @@
+Video Game Sales Analysis Report
+Business Overview
+The video game industry is a rapidly growing sector, driven by technological advancements and increasing consumer engagement. This analysis aims to evaluate sales performance across different platforms, genres, and publishers, identifying trends and opportunities for growth.
+
+Problem Being Solved
+With the vast amount of data available, businesses need to identify which games perform best in terms of sales and which demographics are driving sales. This analysis helps answer critical questions about market dynamics, allowing companies to make informed decisions regarding game development, marketing strategies, and resource allocation.
+
+Data Sources Used
+VGChartz: This is the primary dataset used, providing comprehensive sales data for video games across various platforms and regions.
+VGSales: Additional sales data, offering insights into historical trends and game performance.
+Game Sales Data: A third dataset to supplement the analysis with more recent game titles and user scores.
+
+Business Questions
+1. Which platforms have the highest sales growth over the last five years, and what factors contribute to this growth?
+Rationale: Understanding platform performance can guide strategic investments in game development and marketing. This question helps identify trends and successful platforms that could influence future projects.
+2. What is the correlation between user scores and global sales across different genres, and how does this vary by platform?
+Rationale: This question seeks to analyze whether higher user ratings correlate with increased sales, which can inform quality assurance and marketing strategies. It can also help identify genres that perform well regardless of user scores.
+3. How do sales figures differ between new releases and established franchises, and what impact do release timing and marketing spend have on these sales?
+Rationale: Analyzing the performance of new versus established games can help in strategic planning for future releases and understanding consumer behavior. This question encourages exploration of the competitive landscape.
+4. How did specific global events (e.g., the COVID-19 pandemic) impact sales across different genres, and what long-term effects might this have on consumer behavior and the gaming industry?
+Rationale: This question aims to understand how extraordinary circumstances influence gaming trends and sales. Analyzing data from events like the pandemic can reveal shifts in consumer preferences and spending habits, guiding future strategies for game development and marketing.
+
+Additional Business Questions
+Which genres have the highest average sales across platforms, and how does this trend change over the years? This question can lead to targeted marketing strategies based on genre performance.
+
+How do user scores correlate with global sales across different platforms? Understanding this relationship could inform decisions about game quality and marketing efforts.
