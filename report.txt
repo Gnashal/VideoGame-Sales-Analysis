@@ -24,3 +24,19 @@ Additional Business Questions
 Which genres have the highest average sales across platforms, and how does this trend change over the years? This question can lead to targeted marketing strategies based on genre performance.
 
 How do user scores correlate with global sales across different platforms? Understanding this relationship could inform decisions about game quality and marketing efforts.
+
+Business Process
+Theme: Video Game Sales Analysis
+The primary business processes to analyze in the context of video game sales include:
+Sales Performance: Analyzing sales figures across different platforms (e.g., console, PC, mobile) to identify which platforms generate the most revenue.
+Customer Interactions: Understanding customer behavior, preferences, and engagement through metrics such as user ratings and reviews.
+Market Trends: Identifying trends in the gaming industry, such as emerging genres or platforms that are gaining popularity.
+
+Granularity
+Per Transaction Level: Each sale captures details like:
+Game Title: The name of the game.
+Platform: The system on which the game was sold (e.g., PS4, Xbox One, PC).
+Genre: The category of the game (e.g., Action, RPG).
+Release Date: When the game was released.
+Sales Figures: The number of units sold or total revenue generated from that transaction.
+
